@@ -1,0 +1,5 @@
+{
+  "name": "React Messenger Clone",
+  "description": "A visually faithful clone of modern messaging applications like WhatsApp and Messenger, built with React and Tailwind CSS. This is a UI demonstration showcasing a responsive layout, chat components, and a familiar user experience.",
+  "requestFramePermissions": []
+}
